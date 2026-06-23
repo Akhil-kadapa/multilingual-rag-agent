@@ -1,0 +1,10 @@
+PyPDF2
+sentence-transformers
+faiss-cpu
+google-generativeai
+numpy
+python-dotenv
+chardet
+groq
+streamlit
+fpdf2
