@@ -381,7 +381,8 @@ This project is currently unlicensed. All rights reserved by Akhil Kadapa.
 
 ## 👤 Author
 
-** Ahamed Akhil Kadapa**
+**Ahamed Akhil Kadapa**
+
 **M.S. Artificial Intelligence, University of Bridgeport**
 
 **Machine Learning | Artificial Intelligence | AI Engineering**
